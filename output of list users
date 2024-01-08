@@ -1,0 +1,13 @@
+ubuntu@ip-172-31-28-85:~/shell-script-to-list-users$ ./list-users.sh Mahe-Devops-practice-projects shell-script-to-list-users
+Listing users with read access to Mahe-Devops-practice-projects/shell-script-to-list-users...
+Users with read access to Mahe-Devops-practice-projects/shell-script-to-list-users:
+MaheshVarakala
+mahesh202420
+ubuntu@ip-172-31-28-85:~/shell-script-to-list-users$ ./list-users.sh Mahe-Devops-practice-projects resource-tracker
+Listing users with read access to Mahe-Devops-practice-projects/resource-tracker...
+Users with read access to Mahe-Devops-practice-projects/resource-tracker:
+MaheshVarakala
+ubuntu@ip-172-31-28-85:~/shell-script-to-list-users$ ./list-users.sh MaheshVarakala ansible-examples
+Listing users with read access to MaheshVarakala/ansible-examples...
+Users with read access to MaheshVarakala/ansible-examples:
+MaheshVarakala
